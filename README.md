@@ -28,7 +28,7 @@ In such a implementation four Op-Amps are required.
 
 ## Testing
 
-![Alt text](/../RavingSmurfGB/DAC_Upgrade/blob/main/images/balanced_amplification.png?raw=true "Optional Title")
+![Alt text](/../https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/balanced_amplification.png?raw=true "Optional Title")
 
 ## Progress
 
