@@ -57,15 +57,15 @@ By tracing this the following wiring diagaram can be made.
 
 Using TinkerCAD, I designed a basic 3d model of the xDuoo XD05 Bal, seen in red, for which a enclosure to contain the Op-Amps can be based around.
 
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/3d_print.png "Logo Title Text 1")
 
 The enclosure will be 3d printed in two parts; the first is the main body which will contain the SS2590 Op-Amps aswell as any wiring, this will then be connected to the main unit via M2 bolts and nuts.
 
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/3d_main.png "Logo Title Text 1")
 
 The second part is a cap which will hold the SS2690 Op-Amps within the main body and keep them secure, again M2 bolts will be used along side M2 threaded inserts.
 
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/3d_cap.png "Logo Title Text 1")
 
 Then a large hole will be cut with a multi-tool into the main chasis of the xDuoo XD05 Bal to allow for the pass through of wires, and holes drilled for securing the 3d print to the chasis.
 
