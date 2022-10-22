@@ -31,12 +31,29 @@ In such a implementation four Op-Amps are required.
 
 ## Testing
 
-The breakout board that Sparkos Labs supplies required soldering, furthermore the XDUOO XD05 BAL DIP 8 sockets are very close together.
+The [breakout board](https://sparkoslabs.com/pro-discrete-op-amp/pro-to-dual-op-amp-adapter/) that Sparkos Labs supplies required soldering, furthermore the XDUOO XD05 BAL DIP 8 sockets are very close together.
+
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/dac.jpg "Logo Title Text 1")
 
 Which means that a setup such as the one below is a common sight.
 
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/DAC%20with%20ss2590.jpg "Logo Title Text 1")
+
+Where, extenders are used to allow the Op-Amps to run side by side, dodgy soldering which is prone to breaking and exposed PCBs which add up to a extremely delicate setup. Over time this will break and potentially dammage other components on the board.
+
+## Break out Board
+
+The [breakout board](https://sparkoslabs.com/pro-discrete-op-amp/pro-to-dual-op-amp-adapter/) board as mentioned converts the Dip-8 to what is commonly refered to as the pro style connector, the traces are fairly easy to follow as only a single layer of the PCB is used.
+
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/breakout.jpg "Logo Title Text 1")
+
+By tracing this the following wiring diagaram can be made.
+
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/Sparkos%20breakout%20board%20diagram.png "Logo Title Text 1")
+
+## Enclosure
 
 
 ## Progress
 
-hey:)
+I am currently experimenting with replacing the break out board with cables.
