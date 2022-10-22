@@ -5,6 +5,7 @@ Upgrading the XDUOO XD05 BAL with the discreet op-amp SS2590
 ## Contents
 * [Justification](#Justification)
 * [Discreet Op-Amps](#Discreet-Op-Amps)
+* [Testing](#Testing)
 * [Progress](#Progress)
 
 ## Justification
@@ -23,7 +24,9 @@ Discreet op-amps come with a DIP-8/ 8 Pin IC Socket attached on the bottom, howe
 Futhermore the amound of Discreet Op-Amps required varies by the amplifier that is used. A typical amplifier would require two Op-Amps, one for the left channel and one for the right channel allowing for stereo sound to be produced.
 
 However a balanced amplifier works slightly differently, it sends two left channel signals and two right channel signals, each with either a positive or negative polarity. This is in a attempt to reduce noise and also increases the power which the amplifier can send to the listening device (Headphones, IEMs etc..) 
+In such a implementation four Op-Amps are required.
 
+## Testing
 
 ## Progress
 
