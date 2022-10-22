@@ -1,5 +1,5 @@
 # DAC_Upgrade
-Upgrading the XDUOO XD05 BAL with the discreet op-amp SS2590
+Upgrading the xDuoo XD05 Bal with the discreet op-amp SS2590
 
 
 ## Contents
@@ -11,7 +11,7 @@ Upgrading the XDUOO XD05 BAL with the discreet op-amp SS2590
 * [Progress](#Progress)
 
 ## Justification
-This project comes from my passion to find my perfect audio setup, the XDUOO XD05 BAL is a great DAC/Headphone Amp combo but lacks a clarity, layering and punch; among other things with the stock op-amps installed.
+This project comes from my passion to find my perfect audio setup, the [xDuoo XD05 Bal](https://xduoo.net/product/xd05-bal/) is a great DAC/Headphone Amp combo but lacks a clarity, layering and punch; among other things with the stock op-amps installed.
 I have currently tested the following discreet op-amps
 * [Sparkos Labs SS3602](https://sparkoslabs.com/product/dual-discrete-op-amp-ss3602/)
 * [MUZG Audio Efficient JFET operational amplifier](https://muzgaudio.com/en/produkt/efficient-jfet-operational-amplifier/)
@@ -55,6 +55,8 @@ By tracing this the following wiring diagaram can be made.
 
 ## Enclosure
 
+Using TinkerCAD, I designed a basic 3d model of the xDuoo XD05 Bal, seen in red, for which a enclosure to contain the Op-Amps can be based around.
+The enclosure will be 3d printed in two parts
 
 ## Progress
 
