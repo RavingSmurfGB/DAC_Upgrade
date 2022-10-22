@@ -72,3 +72,7 @@ Then a large hole will be cut with a multi-tool into the main chasis of the xDuo
 ## Progress
 
 I am currently experimenting with replacing the break out board with cables.
+
+
+ potential amp to test - https://www.ebay.co.uk/itm/265316482260
+ potential 3d print service - https://www.samotech.co.uk/products/3d-printing-service/
