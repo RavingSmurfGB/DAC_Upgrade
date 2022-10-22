@@ -1,15 +1,17 @@
 # DAC_Upgrade
-Upgrading the XDUOO XD05 BAL with the discreet op-amp SS2590
+Upgrading the xDuoo XD05 Bal with the discreet op-amp SS2590
 
 
 ## Contents
 * [Justification](#Justification)
 * [Discreet Op-Amps](#Discreet-Op-Amps)
 * [Testing](#Testing)
+* [Break out Board](Break-out-Board)
+* [Enclosure](Enclosure)
 * [Progress](#Progress)
 
 ## Justification
-This project comes from my passion to find my perfect audio setup, the XDUOO XD05 BAL is a great DAC/Headphone Amp combo but lacks a clarity, layering and punch; among other things with the stock op-amps installed.
+This project comes from my passion to find my perfect audio setup, the [xDuoo XD05 Bal](https://xduoo.net/product/xd05-bal/) is a great DAC/Headphone Amp combo but lacks a clarity, layering and punch; among other things with the stock op-amps installed.
 I have currently tested the following discreet op-amps
 * [Sparkos Labs SS3602](https://sparkoslabs.com/product/dual-discrete-op-amp-ss3602/)
 * [MUZG Audio Efficient JFET operational amplifier](https://muzgaudio.com/en/produkt/efficient-jfet-operational-amplifier/)
@@ -31,12 +33,31 @@ In such a implementation four Op-Amps are required.
 
 ## Testing
 
-The breakout board that Sparkos Labs supplies required soldering, furthermore the XDUOO XD05 BAL DIP 8 sockets are very close together.
+The [breakout board](https://sparkoslabs.com/pro-discrete-op-amp/pro-to-dual-op-amp-adapter/) that Sparkos Labs supplies required soldering, furthermore the XDUOO XD05 BAL DIP 8 sockets are very close together.
+
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/dac.jpg "Logo Title Text 1")
 
 Which means that a setup such as the one below is a common sight.
 
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/DAC%20with%20ss2590.jpg "Logo Title Text 1")
 
+Where, extenders are used to allow the Op-Amps to run side by side, dodgy soldering which is prone to breaking and exposed PCBs which add up to a extremely delicate setup. Over time this will break and potentially dammage other components on the board.
+
+## Break out Board
+
+The [breakout board](https://sparkoslabs.com/pro-discrete-op-amp/pro-to-dual-op-amp-adapter/) board as mentioned converts the Dip-8 to what is commonly refered to as the pro style connector, the traces are fairly easy to follow as only a single layer of the PCB is used.
+
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/breakout.jpg "Logo Title Text 1")
+
+By tracing this the following wiring diagaram can be made.
+
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/Sparkos%20breakout%20board%20diagram.png "Logo Title Text 1")
+
+## Enclosure
+
+Using TinkerCAD, I designed a basic 3d model of the xDuoo XD05 Bal, seen in red, for which a enclosure to contain the Op-Amps can be based around.
+The enclosure will be 3d printed in two parts
 
 ## Progress
 
-hey:)
+I am currently experimenting with replacing the break out board with cables.
