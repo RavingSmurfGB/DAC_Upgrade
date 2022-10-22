@@ -6,8 +6,8 @@ Upgrading the xDuoo XD05 Bal with the discreet op-amp SS2590
 * [Justification](#Justification)
 * [Discreet Op-Amps](#Discreet-Op-Amps)
 * [Testing](#Testing)
-* [Break out Board](Break-out-Board)
-* [Enclosure](Enclosure)
+* [Break out Board](#Break-out-Board)
+* [Enclosure](#Enclosure)
 * [Progress](#Progress)
 
 ## Justification
