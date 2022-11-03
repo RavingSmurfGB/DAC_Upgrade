@@ -53,6 +53,10 @@ By tracing this the following wiring diagaram can be made.
 
 ![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/Sparkos%20breakout%20board%20diagram.png "Logo Title Text 1")
 
+However I discovered the importance of verifying your thinking in a number of ways; the first time I used sight, however it was easy to get confused with the traces; I then learnt how to test continuity with a multimeter to ensure the diagram was correct, as I discovered, it was not.
+
+![alt text](https://github.com/RavingSmurfGB/DAC_Upgrade/blob/main/images/Sparkos%20breakout%20board%20diagram%20v2.png "Logo Title Text 1")
+
 ## Enclosure
 
 Using TinkerCAD, I designed a basic 3d model of the xDuoo XD05 Bal, seen in red, for which a enclosure to contain the Op-Amps can be based around.
