@@ -1,5 +1,6 @@
 # DAC_Upgrade
-Upgrading the xDuoo XD05 Bal with the discreet op-amp SS2590
+This repository documents how to upgrade the DAC "xDuoo XD05 Bal" with the discreet op-amp sparkos labs SS2590
+
 
 
 ## Contents
